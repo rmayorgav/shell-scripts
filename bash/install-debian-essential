@@ -19,7 +19,7 @@ apt install -y man-db
 apt install -y vim mc nano
 
 # development
-apt install -y build-essential
+apt install -y build-essential clang
 apt install -y automake autoconf
 apt install -y git cmake gdb 
 
